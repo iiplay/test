@@ -1,0 +1,6 @@
+{
+    "name": "acme/test",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
